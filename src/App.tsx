@@ -15,7 +15,10 @@ function App() {
       <p>hobi: müzik dinlemek </p>
       <p>hobi: yüzmek</p>
       <p> web lab dersi</p>
-       <p> hellooooo</p>
+      <p> Merhaba Dünya!</p>
+      <footer>
+        <small>&copy; 2026 Web Lab</small>
+      </footer>
     </div>
   );
 }
