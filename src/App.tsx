@@ -12,6 +12,8 @@ function App() {
       <h2>LAB-1</h2>
       <p>Ad Soyad: ZİLAN FİDAN</p>
       <p>Öğrenci No: 230541143</p>
+      <p>hobi: müzik dinlemek </p>
+      <p>hobi: yüzmek</p>
     </div>
   );
 }
