@@ -14,6 +14,7 @@ function App() {
       <p>Öğrenci No: 230541143</p>
       <p>hobi: müzik dinlemek </p>
       <p>hobi: yüzmek</p>
+      <p> web lab dersi</p>
     </div>
   );
 }
